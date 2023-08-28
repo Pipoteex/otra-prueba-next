@@ -1,5 +1,5 @@
 import React from 'react'
-import { GetCourses } from '@/types/global'
+import { GetCourses } from '../../../types/global'
 
 export const revalidate = 10;
 
